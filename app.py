@@ -39,18 +39,13 @@ METRICS_JSON = BASE_DIR / "results" / "combined_metrics.json"
 
 VARIANTS = {
     "Baseline (all-mpnet-base-v2)": {
-        "model_path": "all-mpnet-base-v2", # HuggingFace hub model (leave as string)
+        "model_path": "all-mpnet-base-v2",
         "metrics_key": "baseline",
     },
     "Fine-tuned (all pairs)": {
-        "model_path": str(BASE_DIR / "models" / "ft-all-pairs"), # Local model (absolute path)
+        "model_path": "Spacious-spy7/football-search-ft-all-pairs", 
         "metrics_key": "ft-all-pairs",
     },
-    # Add more variants here as you finalize the hard-negatives run, e.g.:
-    # "Fine-tuned (hard negatives)": {
-    #     "model_path": str(BASE_DIR / "models" / "ft-hard-negatives"),
-    #     "metrics_key": "ft-hard-negatives",
-    # },
 }
 
 TOP_K = 5
