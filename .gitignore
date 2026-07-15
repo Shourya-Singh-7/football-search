@@ -1,0 +1,21 @@
+# data
+data/raw/
+data/processed/
+*.csv
+*.npy
+
+# models
+models/
+*.pt
+*.bin
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# misc
+.DS_Store
+*.log

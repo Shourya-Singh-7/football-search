@@ -1,0 +1,114 @@
+{
+  "football": {
+    "recall@5": 0.3922,
+    "count": 51
+  },
+  "cricket": {
+    "recall@5": 0.2609,
+    "count": 23
+  },
+  "american-football": {
+    "recall@5": 0.4118,
+    "count": 17
+  },
+  "tennis": {
+    "recall@5": 0.5833,
+    "count": 12
+  },
+  "baseball": {
+    "recall@5": 0.6,
+    "count": 10
+  },
+  "basketball": {
+    "recall@5": 0.6667,
+    "count": 6
+  },
+  "olympics": {
+    "recall@5": 0.5,
+    "count": 4
+  },
+  "table-tennis": {
+    "recall@5": 0.25,
+    "count": 4
+  },
+  "pool": {
+    "recall@5": 0.3333,
+    "count": 3
+  },
+  "volleyball": {
+    "recall@5": 0.3333,
+    "count": 3
+  },
+  "golf": {
+    "recall@5": 0.0,
+    "count": 2
+  },
+  "swimming": {
+    "recall@5": 0.5,
+    "count": 2
+  },
+  "international-sports": {
+    "recall@5": 0.5,
+    "count": 2
+  },
+  "archery": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "competitive-eating": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "running": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "squash": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "skating": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "training": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "softball": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "cycling": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "formula-1": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "surfing": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "technique": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "nba": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "mlb": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "boxing": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "badminton": {
+    "recall@5": 0.0,
+    "count": 1
+  }
+}

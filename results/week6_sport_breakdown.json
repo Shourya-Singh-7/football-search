@@ -1,0 +1,158 @@
+{
+  "baseline": {
+    "rules": {
+      "recall@5": 0.5484,
+      "n_pairs": 62
+    },
+    "football": {
+      "recall@5": 0.3929,
+      "n_pairs": 28
+    },
+    "cricket": {
+      "recall@5": 0.3333,
+      "n_pairs": 12
+    },
+    "american-football": {
+      "recall@5": 0.6667,
+      "n_pairs": 9
+    },
+    "tennis": {
+      "recall@5": 0.75,
+      "n_pairs": 8
+    },
+    "baseball": {
+      "recall@5": 0.5714,
+      "n_pairs": 7
+    },
+    "equipment": {
+      "recall@5": 0.1667,
+      "n_pairs": 6
+    },
+    "trivia": {
+      "recall@5": 0.8,
+      "n_pairs": 5
+    },
+    "training": {
+      "recall@5": 1.0,
+      "n_pairs": 4
+    },
+    "technique": {
+      "recall@5": 1.0,
+      "n_pairs": 3
+    },
+    "officiating": {
+      "recall@5": 0.0,
+      "n_pairs": 2
+    },
+    "running": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "basketball": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "softball": {
+      "recall@5": 1.0,
+      "n_pairs": 1
+    },
+    "formula-1": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "olympics": {
+      "recall@5": 1.0,
+      "n_pairs": 1
+    },
+    "nba": {
+      "recall@5": 1.0,
+      "n_pairs": 1
+    },
+    "terminology": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "tournaments": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    }
+  },
+  "ft-all-pairs": {
+    "rules": {
+      "recall@5": 0.5806,
+      "n_pairs": 62
+    },
+    "football": {
+      "recall@5": 0.4286,
+      "n_pairs": 28
+    },
+    "cricket": {
+      "recall@5": 0.5,
+      "n_pairs": 12
+    },
+    "american-football": {
+      "recall@5": 0.7778,
+      "n_pairs": 9
+    },
+    "tennis": {
+      "recall@5": 0.875,
+      "n_pairs": 8
+    },
+    "baseball": {
+      "recall@5": 0.5714,
+      "n_pairs": 7
+    },
+    "equipment": {
+      "recall@5": 0.1667,
+      "n_pairs": 6
+    },
+    "trivia": {
+      "recall@5": 0.8,
+      "n_pairs": 5
+    },
+    "training": {
+      "recall@5": 1.0,
+      "n_pairs": 4
+    },
+    "technique": {
+      "recall@5": 1.0,
+      "n_pairs": 3
+    },
+    "officiating": {
+      "recall@5": 0.0,
+      "n_pairs": 2
+    },
+    "running": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "basketball": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "softball": {
+      "recall@5": 1.0,
+      "n_pairs": 1
+    },
+    "formula-1": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "olympics": {
+      "recall@5": 1.0,
+      "n_pairs": 1
+    },
+    "nba": {
+      "recall@5": 1.0,
+      "n_pairs": 1
+    },
+    "terminology": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    },
+    "tournaments": {
+      "recall@5": 0.0,
+      "n_pairs": 1
+    }
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "|rules|football|": {
+    "recall@5": 0.3636,
+    "count": 11
+  },
+  "|rules|football|officiating|": {
+    "recall@5": 0.1429,
+    "count": 7
+  },
+  "|tennis|": {
+    "recall@5": 0.5,
+    "count": 4
+  },
+  "|football|officiating|": {
+    "recall@5": 0.25,
+    "count": 4
+  },
+  "|cricket|": {
+    "recall@5": 0.0,
+    "count": 4
+  },
+  "|rules|cricket|": {
+    "recall@5": 0.0,
+    "count": 4
+  },
+  "|cricket|terminology|": {
+    "recall@5": 0.0,
+    "count": 3
+  },
+  "|rules|american-football|nfl|": {
+    "recall@5": 0.0,
+    "count": 3
+  },
+  "|football|": {
+    "recall@5": 0.6667,
+    "count": 3
+  },
+  "|rules|pool|": {
+    "recall@5": 0.5,
+    "count": 2
+  },
+  "|american-football|nfl|": {
+    "recall@5": 0.0,
+    "count": 2
+  },
+  "|rules|basketball|nba|": {
+    "recall@5": 1.0,
+    "count": 2
+  },
+  "|football|world-cup|strategy|": {
+    "recall@5": 0.0,
+    "count": 2
+  },
+  "|rules|basketball|": {
+    "recall@5": 1.0,
+    "count": 2
+  },
+  "|rules|cricket|icc|": {
+    "recall@5": 1.0,
+    "count": 2
+  },
+  "|american-football|": {
+    "recall@5": 0.0,
+    "count": 2
+  },
+  "|rules|volleyball|": {
+    "recall@5": 0.5,
+    "count": 2
+  },
+  "|trivia|tennis|": {
+    "recall@5": 0.5,
+    "count": 2
+  },
+  "|rules|baseball|": {
+    "recall@5": 1.0,
+    "count": 2
+  },
+  "|rules|american-football|nfl|scoring|": {
+    "recall@5": 1.0,
+    "count": 2
+  },
+  "|baseball|trivia|mlb|postseason|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|football|trivia|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|equipment|golf|maintenance|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|baseball|history|mlb|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|trivia|history|serie-a|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|technique|archery|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|terminology|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|training|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|cricket|wicket|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|terminology|volleyball|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|cricket|scoring|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|training|swimming|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|olympics|doping|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|officiating|tennis|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|training|competitive-eating|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|trivia|statistics|records|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|football|officiating|penalty-shot|goalkeeper|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|equipment|table-tennis|racket|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|american-football|collegiate|scoring|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|english-premier-league|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|american-football|nfl|uniform|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|trivia|olympics|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|running|marathon|road-running|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|statistics|technology|world-cup|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|american-football|nfl|injuries|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|tennis|media|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|equipment|squash|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|trivia|history|champions-league|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|football|penalty-shot|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|tennis|atp|wta|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|transfer|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|basketball|terminology|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|tennis|atp|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|equipment|technique|skating|ice-skating|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|training|technology|performance|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|trivia|records|international-sports|participation|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|cricket|officiating|terminology|trivia|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|softball|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|baseball|trivia|mlb|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|cycling|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|formula-1|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|table-tennis|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|olympics|track-and-field|qualifying|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|records|english-premier-league|la-liga|bundesliga|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|tennis|terminology|scoring|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|american-football|nfl|super-bowl|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|football|history|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|cricket|scoring|duckworth-lewis|interruption|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|officiating|surfing|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|technique|coaching|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|baseball|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|statistics|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|american-football|nfl|tie-breaker|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|world-cup|schedule|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|american-football|nfl|covid-19|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|english-premier-league|la-liga|mls|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|table-tennis|serve|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|statistics|sabermetrics|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|penalty-shot|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|cricket|officiating|indian-premier-league|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|cricket|equipment|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|nba|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|technique|table-tennis|spin|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|trivia|olympics|boxing|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|football|strategy|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|mlb|draft|participation|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|tennis|serve|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|cricket|trivia|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|training|injuries|boxing|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|equipment|badminton|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|american-football|nfl|suspension|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|trivia|statistics|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|terminology|international-sports|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|baseball|trivia|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|cricket|history|officiating|helmet|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|tournaments|pool|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|history|formations|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|equipment|training|swimming|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|world-cup|tie-breaker|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|cricket|officiating|wicket|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|officiating|basketball|terminology|technique|nba|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|baseball|officiating|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|golf|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|football|tournaments|international-sports|uefa|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|rules|american-football|history|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|rules|football|english-premier-league|": {
+    "recall@5": 1.0,
+    "count": 1
+  },
+  "|cricket|indian-premier-league|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|baseball|scoring|": {
+    "recall@5": 0.0,
+    "count": 1
+  },
+  "|baseball|postseason|": {
+    "recall@5": 0.0,
+    "count": 1
+  }
+}

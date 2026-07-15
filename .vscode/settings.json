@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/Users/apple/ml-env/bin/python3.11",
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}

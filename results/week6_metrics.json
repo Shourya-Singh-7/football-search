@@ -1,0 +1,30 @@
+{
+  "baseline (title+body)": {
+    "recall@1": 0.2792,
+    "recall@5": 0.5195,
+    "recall@10": 0.6104,
+    "mrr": 0.3857,
+    "total": 154
+  },
+  "ft-all-pairs": {
+    "recall@1": 0.2922,
+    "recall@5": 0.5649,
+    "recall@10": 0.6883,
+    "mrr": 0.4144,
+    "total": 154
+  },
+  "ft-duplicates-only": {
+    "recall@1": 0.2792,
+    "recall@5": 0.5195,
+    "recall@10": 0.6104,
+    "mrr": 0.3856,
+    "total": 154
+  },
+  "ft-hard-negatives": {
+    "recall@1": 0.2792,
+    "recall@5": 0.5195,
+    "recall@10": 0.6104,
+    "mrr": 0.3854,
+    "total": 154
+  }
+}
