@@ -35,7 +35,7 @@ except ImportError:
 # Config — Resolved dynamically against BASE_DIR
 # ---------------------------------------------------------------------------
 QUESTIONS_CSV = BASE_DIR / "data" / "processed" / "questions.csv"
-METRICS_JSON = BASE_DIR / "results" / "metrics.json"
+METRICS_JSON = BASE_DIR / "results" / "combined_metrics.json"
 
 VARIANTS = {
     "Baseline (all-mpnet-base-v2)": {
